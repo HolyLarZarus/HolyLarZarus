@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HolyLarZarus
 - 👀 I’m interested in Machine Learing and Inovation
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tomhtmlqdh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: C++ is the best pogramming Language ever created ;)
 
 <!---
 HolyLarZarus/HolyLarZarus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
