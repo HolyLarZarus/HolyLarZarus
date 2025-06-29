@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HolyLarZarus
-- 👀 I’m interested in Machine Learing and Inovation
+- 👀 I’m interested in Software Development and Inovation
 - 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Discord (theholylarzarus)
 - 📫 How to reach me tomhtmlqdh@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: C++ is the best pogramming Language ever created ;)
